@@ -1,0 +1,1 @@
+  06/02/2021 20:54:45 WAT: Starting composition “Trainer ad”.  Output To: /Users/Mac/Desktop/francis/Trainer ad.mov    06/02/2021 20:54:51 WAT: Finished composition “Trainer ad”.  Total Time Elapsed: 6 SecondsLog closed on 06/02/2021 at 20:54:51 WAT
